@@ -10,5 +10,12 @@
 </br>
 
 ## 결과
+
+
 ## 결론
+
+
+
 ## 참조
+
+https://studio.edgeimpulse.com/studio/200131
