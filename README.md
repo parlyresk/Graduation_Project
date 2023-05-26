@@ -11,11 +11,24 @@
 
 ## 결과
 
+![화면 캡처 2023-05-24 224700](https://github.com/parlyresk/Graduation_Project/assets/72953981/63287e19-c790-4200-9b1f-597aaeb82dc2)
+![KakaoTalk_20230524_224743876](https://github.com/parlyresk/Graduation_Project/assets/72953981/c49aabd0-de03-4283-bc34-098b5c1ceb18)
 
+Classification한 소리 중 0.8 이상이 되면 붉은 색 led가 점등한다
+
+</br>
+
+</br>
 ## 결론
 
+필요한 음성 정보를 외부 프로젝트 및 직접 녹음을 통해 얻은 뒤
 
+데이터 전처리를 통해 Sound Classifiaction을 구현했다
+
+multi channl을 통한 음성 정보를 넣어 Sound Localization을 학습하여
+
+두 개의 모델을 동시에 적용시키는 것이 추후 과제가 될 것이다
 
 ## 참조
-
+https://studio.edgeimpulse.com/public/111611/latest
 https://studio.edgeimpulse.com/studio/200131
