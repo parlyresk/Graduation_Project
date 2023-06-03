@@ -22,7 +22,7 @@ file_count=1
 
 try:
     while True:
-        output_file = 'C:\\Users\\kimseyun\\Desktop\\recording\\west{}.wav'.format(file_count)  # 저장할 .wav 파일 경로
+        output_file = '파일 저장 경로 {}.wav'.format(file_count)  # 저장할 .wav 파일 경로
 
 # wave 모듈을 사용하여 .wav 파일 생성
         with wave.open(output_file, 'wb') as wav_file:
