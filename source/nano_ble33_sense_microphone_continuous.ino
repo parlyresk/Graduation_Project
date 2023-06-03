@@ -121,7 +121,7 @@ void loop()
             
             ei_printf("    %s: %.5f\n", result.classification[ix].label,
                       result.classification[ix].value);
-            if(result.classification[ix].value > 0.8){
+            if(ix == 0 || ix == 1 || ix == 3 && result.classification[ix].value > 0.8){
               digitalWrite(RED, LOW);
               delay(1000);
               digitalWrite(RED, HIGH);
