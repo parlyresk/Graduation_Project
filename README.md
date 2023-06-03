@@ -31,4 +31,6 @@ multi channl을 통한 음성 정보를 넣어 Sound Localization을 학습하�
 
 ## 참조
 https://studio.edgeimpulse.com/public/111611/latest
+
+
 https://studio.edgeimpulse.com/studio/200131
